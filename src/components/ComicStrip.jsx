@@ -86,7 +86,7 @@ function ComicStrip() {
               <div class="relative mx-3 px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20 sm:mx-5">
                 <div class="w-3xl mx-auto">
                   <div>
-                    <h1 class="text-2xl text-center font-semibold">
+                    <h1 class="text-2xl text-black text-center font-semibold">
                       Script your personalized comic strip adventure!
                     </h1>
                   </div>

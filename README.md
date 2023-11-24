@@ -22,5 +22,6 @@ It uses React version **18.2** and Tailwind CSS version **3.2**.
     ```sh
     npm start
     ```
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+4. Url for the deployed version: https://comic-app-auto.vercel.app/
 
+Thank you for your time!
